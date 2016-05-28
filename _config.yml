@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Rahmadi Gusri
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http:/rahmadigusri.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
-  avatar: bio-photo.jpg
+  name: Rahmadi Gusri 
+  avatar: 18144135.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: Rahmadi #username
+  facebook: https://www.facebook.com/dedy.tjpate #username
   google:
-    plus: kampar #username
+    plus: Rahmadi #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: Rahmadi #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
