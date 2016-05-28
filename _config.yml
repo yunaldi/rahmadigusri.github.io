@@ -32,9 +32,9 @@ owner:
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: Rahmadi #username
+  #twitter: Rahmadi #username
   facebook: dedy.tjpate #username
-  google:
+  #google:
     plus: Rahmadi #username
     analytics: 
     verify: 
