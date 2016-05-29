@@ -1,4 +1,13 @@
-<center>biodata</center>
+---
+layout: page
+title: About
+tags: [about, Jekyll, theme, moon]
+date: 2016-03-21
+---
+
+
+
+##<h3><center>biodata</center></h3>
 
 
 <p><h3>Nama : Rahmadi Gusri </h3><br>
